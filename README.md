@@ -23,13 +23,7 @@ B2B satış destek aracı - Potansiyel müşterileri otomatik keşfedin.
 
 ## 🛠️ Kurulum
 
-### 1. Zip'i Çıkar
-
-```cmd
-# İndirilen zip dosyasını masaüstüne veya istediğin yere çıkar
-```
-
-### 2. Backend Kurulumu
+### 1. Backend Kurulumu
 
 ```cmd
 cd business-finder\backend
@@ -44,7 +38,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 3. Frontend Kurulumu
+### 2. Frontend Kurulumu
 
 ```cmd
 cd business-finder\frontend
@@ -138,10 +132,4 @@ npm run dev -- --port 5174
 ### CORS hatası
 Backend ve frontend'in aynı anda çalıştığından emin ol.
 
-## 📄 Lisans
 
-MIT License
-
----
-
-**Dijital Gen** - Genvizit için geliştirildi
